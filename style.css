@@ -1,0 +1,119 @@
+.black-bg{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-style: oblique;
+}
+.pay-image{
+    text-align: right;
+}
+#navbarNav{
+    font-size: 20px;
+    font-family: Courier;
+    color: black;
+}
+.blue-bg{
+    background-color:#1e2f83;
+}
+.brown-bg{
+    background-color:#8f0207;
+}
+.tomato-bg{
+    background-color:#bc770d;
+}
+#decoration{
+    text-align:right;
+}
+
+h2{
+    text-align: center;
+}
+.card{
+    padding: 7px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card:hover {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  }
+.card-title{
+    text-align: right;
+}
+.ADD-TO-CART-button{
+    border-radius: 3px;
+    color: #fdb907;
+    border-color: #fdb907;
+    font-size: 15px;
+    background-color: white;
+    font-family: Courier, monospace;
+}
+.ADD-TO-CART-button:hover{
+    color:cornflowerblue;
+    border-color:cornflowerblue;
+}
+
+.about{
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+h1{
+    text-align: center;
+}
+.text-grey{
+    color: grey;
+    font-family: Arial Narrow, sans-serif;
+}
+.text-white{
+    color: white;
+    font-family: Arial Narrow, sans-serif;
+}
+h4{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial Narrow, sans-serif;
+    color:grey;
+}
+h3{
+    color: coral;
+    text-align: center;
+    font-family: Arial Narrow, sans-serif;
+}
+.orange-bg{
+    background-color: #fdb907;
+}
+.icon{
+    text-align:end;
+}
+.footer{
+    background-color: black;
+    color: white;
+   font-family:Arial Narrow, sans-serif;
+}
+h5{
+    text-align: left;
+    font-size: 15px;
+   font-family: Arial, Helvetica, sans-serif;
+    margin: 5px;
+    width: 60%;
+  }
+  .contact{
+      text-align: right;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
